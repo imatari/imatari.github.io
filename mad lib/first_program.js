@@ -1,6 +1,6 @@
 var verb = ["run","play","jump","read","laugh","breathe","fly"];
 var noun = ["dog","cat","bird","lion","wolf","house","rock group"];
-var adj = ["kind","cold","smart","beautiful","glowing","fragrant","fantastic"];
+var adj = ["kind","cold","smart","interesting","glowing","fragrant","fantastic"];
 
 mkstr();
 
